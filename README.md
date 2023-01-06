@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/PHarish7036" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="https://twitter.com/PHarish7036" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harish-pulapa-abc7036/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" alt="https://www.linkedin.com/in/harish-pulapa-abc7036/" height="30" width="40" /></a>
 </p>
 
